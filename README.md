@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I am Marlen ! 🌸<br>I am a junior front-end developer, I am in the process of <br>professional growth, with learning based on agile methodology, <br>with a great capacity for self-learning and learning to learn.<br><br>Visit my web portfolio for a complete background on my <br>projects and contact information.<br><br>
+Hi! 👋 I am Marlen ! 🌸<br>I am a Front End Developer, passionate about innovation in life. <br>With a mentality open to changes and continuous improvement, I have experience in accounting, health, business, and very good skills in reaching people. With knowledge in web development based on the product and needs. I like challenges, solving problems by adapting the necessary technologies and with a focus on an agile culture. I enjoy working collaboratively as a team, sharing, listening and always contributing to reach the goal with the best attention to detail..<br><br>
 
 
 ## 🌐 Socials:
